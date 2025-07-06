@@ -7,7 +7,7 @@ const ProjectsSection = () => {
     {
       title: "Team-UP",
       description: "แอปพลิเคชันสำหรับการจัดการทีมและโปรเจกต์ พัฒนาด้วย Flutter และ Firebase",
-      image: "public/Teams.png",
+      image: "public/images/Teams.png",
       tags: ["Flutter", "MongoDB", "Dart", "Moblie App","Android Studio"],
       liveUrl: "#",
       codeUrl: "#"
@@ -15,7 +15,7 @@ const ProjectsSection = () => {
     {
       title: "เรือดำน้ำหุ่นยนต์",
       description: "โปรเจกต์หุ่นยนต์เรือดำน้ำที่สามารถควบคุมผ่านแอปพลิเคชันมือถือ",
-      image: "public/Ocean.png",
+      image: "public/images/Ocean.png",
       tags: ["Arduino", "C", "IoT", "Robotics"],
       liveUrl: "#",
       codeUrl: "#"
@@ -23,7 +23,7 @@ const ProjectsSection = () => {
     {
       title: "เว็บไซต์จองโต๊ะร้านชาบู",
       description: "เว็บแอปพลิเคชันสำหรับจองโต๊ะร้านอาหาร พร้อมระบบจัดการคิวออนไลน์",
-      image: "public/Shabu.png",
+      image: "public/images/Shabu.png" , 
       tags: ["React", "Node.js", "MySQL", "HTML", "CSS", "JavaScript","Web App"],
       liveUrl: "#",
       codeUrl: "#"
