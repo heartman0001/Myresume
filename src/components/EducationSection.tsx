@@ -110,7 +110,7 @@ const EducationSection = () => {
           
           <div className="text-center">
             <div className="w-16 h-16 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-4">
-              <span className="text-2xl font-bold text-purple-600">2+</span>
+              <span className="text-2xl font-bold text-purple-600">3+</span>
             </div>
             <h3 className="font-bold text-gray-900 mb-2">โปรเจกต์</h3>
             <p className="text-gray-600">ที่ทำในมหาวิทยาลัย</p>

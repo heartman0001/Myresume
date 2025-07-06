@@ -49,11 +49,11 @@ const AboutSection = () => {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>นักศึกษาปี 3 วิศวกรรมคอมพิวเตอร์</span>
+                  <span>นักศึกษาปี 4 วิศวกรรมคอมพิวเตอร์</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
-                  <span>มีประสบการณ์ทำโปรเจกต์ 2+ โปรเจกต์</span>
+                  <span>มีประสบการณ์ทำโปรเจกต์ 3+ โปรเจกต์</span>
                 </div>
                 <div className="flex items-center">
                   <div className="w-3 h-3 bg-white rounded-full mr-4"></div>
