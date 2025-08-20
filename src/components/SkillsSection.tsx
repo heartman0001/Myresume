@@ -18,7 +18,7 @@ const SkillsSection = () => {
     {
       title: "Design",
       icon: <Palette className="w-8 h-8" />,
-      skills: ["Figma", "UI/UX", "Adobe XD"],
+      skills: ["Figma", "Photoshop", "etc."],
       color: "from-purple-400 to-purple-600"
     },
     {
